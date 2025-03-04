@@ -3,7 +3,6 @@
   <h3>Let's Connect and have a Chat!</h3>
 
   <p>
-   
     <a href="https://t.me/acherisxx">
       <img
         height="20"
