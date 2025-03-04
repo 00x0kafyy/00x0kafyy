@@ -36,10 +36,7 @@ hobbies: ["Recon", "Payload Crafting", "Mental Breakdown"]
 <details>
   <div align="center">
     <p>
-      :octocat:
-      <img src="https://img.shields.io/github/followers/Frid0l1n"></img>
-      <img src="https://img.shields.io/github/stars/Frid0l1n"></img>
-      [![wakatime](https://wakatime.com/badge/user/your-wakatime-id.svg)](https://wakatime.com/@your-wakatime-id)
+     DOR
     </p>
   </div>
 </details>
