@@ -18,7 +18,7 @@
 
 <pre align="center">
 
-```json
+json
 {
   "name": "Kafy",
   "location": "Seoul, South Korea",
