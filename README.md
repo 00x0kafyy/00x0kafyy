@@ -16,28 +16,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Developer;Bug+Bounty+Hunter;Cyber+Security+Researcher;AI+%26+ML+Engineer;UI%2FUX+Designer;Mental+200+OK+Only" alt="Typing SVG" />
 </p>
 
-<style>
-  .terminal {
-    font-family: "Courier New", Courier, monospace;
-    background-color: #0f0f0f;
-    color: #00ff88;
-    padding: 20px;
-    border-radius: 10px;
-    width: fit-content;
-    margin: auto;
-    animation: glow 1.8s infinite alternate;
-    box-shadow: 0 0 15px #00ff88;
-  }
+<pre align="center">
 
-  @keyframes glow {
-    0% { opacity: 1; }
-    50% { opacity: 0.85; }
-    100% { opacity: 1; }
-  }
-</style>
-
-<div class="terminal">
-<pre><code>
+```json
 {
   "name": "Kafy",
   "location": "Seoul, South Korea",
@@ -75,8 +56,7 @@
     "UI Horror Fixing"
   ]
 }
-</code></pre>
-</div>
+</pre>
 
 <details>
   <summary><b>📎 Fun Fact</b></summary>
