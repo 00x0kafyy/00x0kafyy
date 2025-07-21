@@ -12,6 +12,10 @@
 </div>
 
 <!-- Glowing JSON Style -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Developer;Bug+Bounty+Hunter;Cyber+Security+Researcher;AI+%26+ML+Engineer;UI%2FUX+Designer;Mental+200+OK+Only" alt="Typing SVG" />
+</p>
+
 <style>
   .terminal {
     font-family: "Courier New", Courier, monospace;
