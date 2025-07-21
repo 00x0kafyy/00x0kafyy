@@ -3,7 +3,7 @@
   <h3>Let's Connect and Have a Chat!</h3>
 
   <p>
-    <a href="https://t.me/gibranrakamulyadi">
+    <a href="https://t.me/acherisxx">
       <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
     </a>
   </p>
