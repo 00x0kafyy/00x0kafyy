@@ -13,7 +13,7 @@
 
 <!-- Glowing JSON Style -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Developer;Bug+Bounty+Hunter;Cyber+Security+Researcher;AI+%26+ML+Engineer;UI%2FUX+Designer;Mental+200+OK+Only" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Developer;Bug+Bounty+Hunter;Cyber+Security+Researcher;AI+%26+ML+Engineer;UI%2FUX+Designer" alt="Typing SVG" />
 </p>
 
 <pre align="center">
@@ -27,33 +27,26 @@ json
     "UI/UX Designer",
     "Bug Bounty Hunter",
     "Pentester",
+    "Capture The Flag (CTF) Player",
     "Cyber Security Researcher",
     "AI & ML Engineer"
   ],
   "fields_of_interests": [
     "Web Application Security",
-    "Recon & OSINT",
+    "CTF Player",
     "API Pentesting",
-    "WAF Bypass Engineering",
     "Adversarial AI"
   ],
   "currently_learning": [
-    "Exploit Development",
-    "AI4Security (LLM Injection, Prompt Fuzzing)",
-    "AbnormalFuzzer v4",
-    "Custom RAT CLI Build"
+    "Developer",
+    "Capture The Flag (CTF) Player",
+    "AI4Security (LLM Injection, Prompt Fuzzing)"
   ],
   "goals_2025": [
-    "Submit Hall of Fame",
-    "Bypass All WAFs",
-    "Stay Mentally 200 OK",
-    "Launch Astraa AI Tool"
+    "Submit Hall of Fame"
   ],
   "hobbies": [
-    "Recon",
-    "Payload Crafting",
-    "Mental Breakdown Recovery",
-    "UI Horror Fixing"
+    "Listening Music."
   ]
 }
 </pre>
