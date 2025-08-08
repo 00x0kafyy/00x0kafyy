@@ -70,9 +70,3 @@
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=00x0kafyy&theme=radical" />
 </div>
-
-<!-- Trophy style -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=00x0kafyy&show_icons=true&theme=radical" />
-</div>
-
