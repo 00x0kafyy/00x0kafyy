@@ -69,4 +69,4 @@
 </details>
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=4FMCA2sO1yuY6rap3e6Wws)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=e016345821c740ebb75ac09406a75609)
