@@ -67,3 +67,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=FF5555&center=true&vCenter=true&width=700&lines=beri+aku+capucino+aku+akan+fix+kan+error+yang+ada+di+dunia+ini." alt="Fun Fact" />
   </div>
 </details>
+
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fir4ry6vwqq5wgsn2ausk4pdp4)
