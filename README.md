@@ -11,14 +11,14 @@
   <h3>A Little Bit About Me and My Interests</h3>
 </div>
 
-<!-- Glowing JSON Style -->
+<!-- Typing animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Developer;Bug+Bounty+Hunter;Cyber+Security+Researcher;AI+%26+ML+Engineer;UI%2FUX+Designer" alt="Typing SVG" />
 </p>
 
+<!-- JSON style card -->
 <pre align="center">
-
-json
+<code>
 {
   "name": "Kafy",
   "location": "Seoul, South Korea",
@@ -49,7 +49,13 @@ json
     "Listening Music."
   ]
 }
+</code>
 </pre>
+
+<!-- Snake animation for contributions -->
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</div>
 
 <details>
   <summary><b>📎 Fun Fact</b></summary>
@@ -57,3 +63,15 @@ json
     <p><i>"Your WAF is my playground."</i></p>
   </div>
 </details>
+
+<!-- Profile stats with animation -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kafymarhas&show_icons=true&theme=radical" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kafymarhas&theme=radical" />
+</div>
+
+<!-- Trophy style -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kafymarhas&theme=onedark" />
+</div>
