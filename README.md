@@ -63,8 +63,3 @@
     <p><i>"Your WAF is my playground."</i></p>
   </div>
 </details>
-
-<!-- Profile stats with animation -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=00x0kafyy&show_icons=true&theme=radical" />
-</div>
