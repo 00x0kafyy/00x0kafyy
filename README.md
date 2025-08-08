@@ -73,5 +73,5 @@
 
 <!-- Trophy style -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kafymarhas&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=00x0kafyy&theme=onedark" />
 </div>
