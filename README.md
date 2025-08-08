@@ -41,7 +41,7 @@
   ],
   "currently_learning": [
     "Developer",
-    "Capture The Flag (CTF) Player",
+    "Capture The Flag (CTF)",
     "AI4Security (LLM Injection, Prompt Fuzzing)"
   ],
   "goals_2025": [
