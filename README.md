@@ -63,3 +63,9 @@
     <p><i>"Your WAF is my playground."</i></p>
   </div>
 </details>
+
+<!-- Spotify Now Playing -->
+<div align="center">
+  <h3>🎧 Currently Listening on Spotify</h3>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31oggeha333ahtqkve77gzgxb5be&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" />
+</div>
