@@ -64,6 +64,6 @@
 <details>
   <summary><b>📎 Fun Fact</b></summary>
   <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=FF5555&center=true&vCenter=true&width=600&lines=beri+aku+capucino+dan+aku+akan+fix+semua+error;yang+ada+di+dunia+ini." alt="Fun Fact" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=FF5555&center=true&vCenter=true&width=700&lines=beri+aku+capucino+aku+akan+fix+kan+error+yang+ada+di+dunia+ini." alt="Fun Fact" />
   </div>
 </details>
