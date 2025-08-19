@@ -60,9 +60,10 @@
   <img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
-<div align="center">
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31jyhoy556gez2anatbblv5c5yna)
+<div style="text-align: center;">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jyhoy556gez2anatbblv5c5yna" alt="Alt text"/>
 </div>
+
 
 <!-- Fun Fact with Animation -->
 <details>
