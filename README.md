@@ -60,6 +60,9 @@
   <img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31jyhoy556gez2anatbblv5c5yna)
+
 <!-- Fun Fact with Animation -->
 <details>
   <summary><b>📎 Fun Fact</b></summary>
@@ -68,5 +71,3 @@
   </div>
 </details>
 
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=e016345821c740ebb75ac09406a75609)
