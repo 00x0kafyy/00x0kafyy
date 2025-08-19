@@ -16,7 +16,6 @@
 
 <!-- Python Code Style -->
 ```
-python
 class Kafy:
     def __init__(self):
         self.name = "Kafy"
