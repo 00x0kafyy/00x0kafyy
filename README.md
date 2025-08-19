@@ -14,59 +14,41 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Developer;Bug+Bounty+Hunter;Cyber+Security+Researcher;AI+%26+ML+Engineer;UI%2FUX+Designer" alt="Typing SVG" />
 </p>
 
-<!-- JSON Card Style -->
-<div align="center">
-  
-  <pre>
-<code>
-{
-  "name": "Kafy",
-  "location": "Seoul, South Korea",
-  "roles": [
-    "Developer",
-    "UI/UX Designer",
-    "Bug Bounty Hunter",
-    "Pentester",
-    "CTF Player",
-    "Cyber Security Researcher",
-    "AI & ML Engineer"
-  ],
-  "fields_of_interests": [
-    "Web Security",
-    "CTF",
-    "API Pentesting",
-    "Adversarial AI"
-  ],
-  "currently_learning": [
-    "Dev",
-    "CTF",
-    "AI4Security"
-  ],
-  "goals_2025": [
-    "Submit Hall of Fame"
-  ],
-  "hobbies": [
-    "Listening Music."
-  ]
-}
-</code>
-</pre>
+<!-- Python Code Style -->
+```
+python
+class Kafy:
+    def __init__(self):
+        self.name = "Kafy"
+        self.location = "Seoul, South Korea"
+        self.roles = [
+            "Developer",
+            "UI/UX Designer",
+            "Bug Bounty Hunter",
+            "Pentester",
+            "CTF Player",
+            "Cyber Security Researcher",
+            "AI Engineer"
+        ]
+        self.fields_of_interests = [
+            "Web Security",
+            "CTF",
+            "API Pentesting",
+            "Adversarial AI"
+        ]
+        self.currently_learning = ["Dev", "CTF", "AI4Security"]
+        self.goals_2025 = ["Submit Hall of Fame"]
+        self.hobbies = ["Listening Music"]
+
+    def __str__(self):
+        return f"{self.name} | {self.roles[0]} from {self.location}"
+
+
+me = Kafy()
+print(me)
+```
+
+<!-- Animated JSON Card Style --> 
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=00x0kafyy&show_icons=false&hide=stars,prs,issues,contribs&theme=tokyonight&custom_title=about%20kafy&hide_border=true&include_all_commits=false" alt="Fake JSON" style="display:none"/>
 </div>
-
-<!-- Snake Contribution -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-<!-- Spotify -->
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jyhoy556gez2anatbblv5c5yna" alt="Spotify Recently Played" />
-</p>
-
-<!-- Fun Fact -->
-<details>
-  <summary><b>📎 Fun Fact</b></summary>
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=FF5555&center=true&vCenter=true&width=700&lines=matcha+user." alt="Fun Fact" />
-  </p>
-</details>
