@@ -51,4 +51,7 @@ print(me)
 <!-- Animated JSON Card Style --> 
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=00x0kafyy&show_icons=false&hide=stars,prs,issues,contribs&theme=tokyonight&custom_title=about%20kafy&hide_border=true&include_all_commits=false" alt="Fake JSON" style="display:none"/>
+
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jyhoy556gez2anatbblv5c5yna" alt="Spotify Recently Played" />
 </div>
+
