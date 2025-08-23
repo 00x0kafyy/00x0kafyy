@@ -11,7 +11,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Developer;Bug+Bounty+Hunter;Cyber+Security+Researcher;AI+%26+ML+Engineer;UI%2FUX+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Developer;Bug+Bounty+Hunter;Cyber+Security+Researcher;AI+%26+Engineer;UI%2FUX+Designer" alt="Typing SVG" />
 </p>
 
 <!-- Python Code Style -->
@@ -19,7 +19,7 @@
 class Kafy:
     def __init__(self):
         self.name = "Kafy"
-        self.location = "Seoul, South Korea"
+        self.location = "Bandung, Indonesia"
         self.roles = [
             "Developer",
             "UI/UX Designer",
