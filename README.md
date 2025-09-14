@@ -11,7 +11,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Developer;Bug+Bounty+Hunter;Cyber+Security+Researcher;AI+Engineer;UI%2FUX+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Developer;Bug+Bounty+Hunter;Cyber+Security+Researcher;AI+&+ML+Engineer;UI%2FUX+Designer" alt="Typing SVG" />
 </p>
 
 <!-- Python Code Style -->
@@ -27,7 +27,7 @@ class Kafy:
             "Pentester",
             "CTF Player",
             "Cyber Security Researcher",
-            "AI Engineer"
+            "AI & ML Engineer"
         ]
         self.fields_of_interests = [
             "Web Security",
